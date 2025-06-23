@@ -20,3 +20,6 @@ const myFunction=function(){      //function can also be treat like a variable
 }
 
 console.log(typeof myFunction);
+
+//memory : stack(primitive): you can get variable copy
+//heap(non-primitive):you can get a refrence or original value,whatever you will change it changes original value.
